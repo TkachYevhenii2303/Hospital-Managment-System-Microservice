@@ -1,6 +1,6 @@
 ﻿using HospitalManagementSystem.Domains.Common;
 
-namespace Dapper_Data_Access_Layer.Entities
+namespace HospitalManagementSystem.Entities
 {
     public class Employees : Entity
     {

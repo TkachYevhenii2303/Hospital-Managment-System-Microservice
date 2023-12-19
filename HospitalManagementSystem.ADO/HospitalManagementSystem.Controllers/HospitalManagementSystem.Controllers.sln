@@ -5,13 +5,15 @@ VisualStudioVersion = 17.7.34031.279
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "HospitalManagementSystem.Controllers", "HospitalManagementSystem.Controllers.csproj", "{4FA58CC9-0F97-4660-980E-1FDB33471BD0}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HospitalManagementSystem.Domains", "..\HospitalManagementSystem.Domains\HospitalManagementSystem.Domains.csproj", "{B308805F-9E2C-4B3B-96E6-DC9DFA1BD71A}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "HospitalManagementSystem.Domains", "..\HospitalManagementSystem.Domains\HospitalManagementSystem.Domains.csproj", "{B308805F-9E2C-4B3B-96E6-DC9DFA1BD71A}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HospitalManagementSystem.Services", "..\HospitalManagementSystem.Services\HospitalManagementSystem.Services.csproj", "{77F8D605-F0D9-40CF-B42F-F9C574F4362D}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "HospitalManagementSystem.Services", "..\HospitalManagementSystem.Services\HospitalManagementSystem.Services.csproj", "{77F8D605-F0D9-40CF-B42F-F9C574F4362D}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HospitalManagementSystem.DTOs", "..\HospitalManagementSystem.DTOs\HospitalManagementSystem.DTOs.csproj", "{EB3B43B2-42EB-421D-87C6-1EE2F978BA37}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "HospitalManagementSystem.DTOs", "..\HospitalManagementSystem.DTOs\HospitalManagementSystem.DTOs.csproj", "{EB3B43B2-42EB-421D-87C6-1EE2F978BA37}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HospitalManagementSystem.Migrations", "..\HospitalManagementSystem.Migrations\HospitalManagementSystem.Migrations.csproj", "{589EEBA1-E195-432C-A66C-6C195D24DFE8}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HospitalManagementSystem.Seeding", "..\HospitalManagementSystem.Seeding\HospitalManagementSystem.Seeding.csproj", "{E4EB31B2-04C9-490C-B87B-4581A35B8B4A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HospitalManagementSystem.Configurations", "..\HospitalManagementSystem.Configurations\HospitalManagementSystem.Configurations.csproj", "{E35B1CD5-B439-479F-A619-148E17D02700}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -35,10 +37,14 @@ Global
 		{EB3B43B2-42EB-421D-87C6-1EE2F978BA37}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{EB3B43B2-42EB-421D-87C6-1EE2F978BA37}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{EB3B43B2-42EB-421D-87C6-1EE2F978BA37}.Release|Any CPU.Build.0 = Release|Any CPU
-		{589EEBA1-E195-432C-A66C-6C195D24DFE8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{589EEBA1-E195-432C-A66C-6C195D24DFE8}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{589EEBA1-E195-432C-A66C-6C195D24DFE8}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{589EEBA1-E195-432C-A66C-6C195D24DFE8}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E4EB31B2-04C9-490C-B87B-4581A35B8B4A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E4EB31B2-04C9-490C-B87B-4581A35B8B4A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E4EB31B2-04C9-490C-B87B-4581A35B8B4A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E4EB31B2-04C9-490C-B87B-4581A35B8B4A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E35B1CD5-B439-479F-A619-148E17D02700}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E35B1CD5-B439-479F-A619-148E17D02700}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E35B1CD5-B439-479F-A619-148E17D02700}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E35B1CD5-B439-479F-A619-148E17D02700}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

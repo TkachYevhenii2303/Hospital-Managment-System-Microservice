@@ -1,0 +1,17 @@
+D:\lessons\Application_Developmenton_NET\HospitalManagementSystem.ADO\HospitalManagementSystem.Services\bin\Debug\net7.0\HospitalManagementSystem.Services.deps.json
+D:\lessons\Application_Developmenton_NET\HospitalManagementSystem.ADO\HospitalManagementSystem.Services\bin\Debug\net7.0\HospitalManagementSystem.Services.dll
+D:\lessons\Application_Developmenton_NET\HospitalManagementSystem.ADO\HospitalManagementSystem.Services\bin\Debug\net7.0\HospitalManagementSystem.Services.pdb
+D:\lessons\Application_Developmenton_NET\HospitalManagementSystem.ADO\HospitalManagementSystem.Services\obj\Debug\net7.0\HospitalManagementSystem.Services.GeneratedMSBuildEditorConfig.editorconfig
+D:\lessons\Application_Developmenton_NET\HospitalManagementSystem.ADO\HospitalManagementSystem.Services\obj\Debug\net7.0\HospitalManagementSystem.Services.AssemblyInfoInputs.cache
+D:\lessons\Application_Developmenton_NET\HospitalManagementSystem.ADO\HospitalManagementSystem.Services\obj\Debug\net7.0\HospitalManagementSystem.Services.AssemblyInfo.cs
+D:\lessons\Application_Developmenton_NET\HospitalManagementSystem.ADO\HospitalManagementSystem.Services\obj\Debug\net7.0\HospitalManagementSystem.Services.csproj.CoreCompileInputs.cache
+D:\lessons\Application_Developmenton_NET\HospitalManagementSystem.ADO\HospitalManagementSystem.Services\obj\Debug\net7.0\HospitalManagementSystem.Services.dll
+D:\lessons\Application_Developmenton_NET\HospitalManagementSystem.ADO\HospitalManagementSystem.Services\obj\Debug\net7.0\refint\HospitalManagementSystem.Services.dll
+D:\lessons\Application_Developmenton_NET\HospitalManagementSystem.ADO\HospitalManagementSystem.Services\obj\Debug\net7.0\HospitalManagementSystem.Services.pdb
+D:\lessons\Application_Developmenton_NET\HospitalManagementSystem.ADO\HospitalManagementSystem.Services\obj\Debug\net7.0\ref\HospitalManagementSystem.Services.dll
+D:\lessons\Application_Developmenton_NET\HospitalManagementSystem.ADO\HospitalManagementSystem.Services\bin\Debug\net7.0\HospitalManagementSystem.Domains.dll
+D:\lessons\Application_Developmenton_NET\HospitalManagementSystem.ADO\HospitalManagementSystem.Services\bin\Debug\net7.0\HospitalManagementSystem.DTOs.dll
+D:\lessons\Application_Developmenton_NET\HospitalManagementSystem.ADO\HospitalManagementSystem.Services\bin\Debug\net7.0\HospitalManagementSystem.Domains.pdb
+D:\lessons\Application_Developmenton_NET\HospitalManagementSystem.ADO\HospitalManagementSystem.Services\bin\Debug\net7.0\HospitalManagementSystem.DTOs.pdb
+D:\lessons\Application_Developmenton_NET\HospitalManagementSystem.ADO\HospitalManagementSystem.Services\obj\Debug\net7.0\HospitalManagementSystem.Services.csproj.AssemblyReference.cache
+D:\lessons\Application_Developmenton_NET\HospitalManagementSystem.ADO\HospitalManagementSystem.Services\obj\Debug\net7.0\HospitalManagementSystem.Services.csproj.CopyComplete

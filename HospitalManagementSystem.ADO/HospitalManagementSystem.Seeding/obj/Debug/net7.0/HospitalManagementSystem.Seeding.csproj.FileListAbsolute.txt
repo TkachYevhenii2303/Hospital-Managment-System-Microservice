@@ -1,0 +1,15 @@
+D:\lessons\Application_Developmenton_NET\HospitalManagementSystem.ADO\HospitalManagementSystem.Seeding\bin\Debug\net7.0\HospitalManagementSystem.Seeding.deps.json
+D:\lessons\Application_Developmenton_NET\HospitalManagementSystem.ADO\HospitalManagementSystem.Seeding\bin\Debug\net7.0\HospitalManagementSystem.Seeding.dll
+D:\lessons\Application_Developmenton_NET\HospitalManagementSystem.ADO\HospitalManagementSystem.Seeding\bin\Debug\net7.0\HospitalManagementSystem.Seeding.pdb
+D:\lessons\Application_Developmenton_NET\HospitalManagementSystem.ADO\HospitalManagementSystem.Seeding\bin\Debug\net7.0\HospitalManagementSystem.Domains.dll
+D:\lessons\Application_Developmenton_NET\HospitalManagementSystem.ADO\HospitalManagementSystem.Seeding\bin\Debug\net7.0\HospitalManagementSystem.Domains.pdb
+D:\lessons\Application_Developmenton_NET\HospitalManagementSystem.ADO\HospitalManagementSystem.Seeding\obj\Debug\net7.0\HospitalManagementSystem.Seeding.csproj.AssemblyReference.cache
+D:\lessons\Application_Developmenton_NET\HospitalManagementSystem.ADO\HospitalManagementSystem.Seeding\obj\Debug\net7.0\HospitalManagementSystem.Seeding.GeneratedMSBuildEditorConfig.editorconfig
+D:\lessons\Application_Developmenton_NET\HospitalManagementSystem.ADO\HospitalManagementSystem.Seeding\obj\Debug\net7.0\HospitalManagementSystem.Seeding.AssemblyInfoInputs.cache
+D:\lessons\Application_Developmenton_NET\HospitalManagementSystem.ADO\HospitalManagementSystem.Seeding\obj\Debug\net7.0\HospitalManagementSystem.Seeding.AssemblyInfo.cs
+D:\lessons\Application_Developmenton_NET\HospitalManagementSystem.ADO\HospitalManagementSystem.Seeding\obj\Debug\net7.0\HospitalManagementSystem.Seeding.csproj.CoreCompileInputs.cache
+D:\lessons\Application_Developmenton_NET\HospitalManagementSystem.ADO\HospitalManagementSystem.Seeding\obj\Debug\net7.0\HospitalManagementSystem.Seeding.csproj.CopyComplete
+D:\lessons\Application_Developmenton_NET\HospitalManagementSystem.ADO\HospitalManagementSystem.Seeding\obj\Debug\net7.0\HospitalManagementSystem.Seeding.dll
+D:\lessons\Application_Developmenton_NET\HospitalManagementSystem.ADO\HospitalManagementSystem.Seeding\obj\Debug\net7.0\refint\HospitalManagementSystem.Seeding.dll
+D:\lessons\Application_Developmenton_NET\HospitalManagementSystem.ADO\HospitalManagementSystem.Seeding\obj\Debug\net7.0\HospitalManagementSystem.Seeding.pdb
+D:\lessons\Application_Developmenton_NET\HospitalManagementSystem.ADO\HospitalManagementSystem.Seeding\obj\Debug\net7.0\ref\HospitalManagementSystem.Seeding.dll

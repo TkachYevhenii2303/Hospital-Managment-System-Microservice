@@ -1,0 +1,19 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>HospitalManagementSystem.Controllers</name>
+    </assembly>
+    <members>
+        <member name="M:HospitalManagementSystem.Controllers.Controllers.EmployeesController.GetEmployeesAsync">
+            <summary>
+            Retrieves a list of employees from the database.
+            </summary>
+            <returns>An ActionResult containing a Response object with a list of GETEmployee objects.</returns>
+            <remarks>
+            This method fetches all employees from the database and returns them in a list.
+            Successful responses will have a status code of 200 (OK).
+            </remarks>
+            <response code="200">Returns a list of GETEmployee objects.</response>
+        </member>
+    </members>
+</doc>

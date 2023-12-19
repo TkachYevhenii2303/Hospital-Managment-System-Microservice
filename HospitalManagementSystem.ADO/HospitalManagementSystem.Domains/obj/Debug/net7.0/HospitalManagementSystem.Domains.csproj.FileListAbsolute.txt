@@ -1,0 +1,12 @@
+D:\lessons\Application_Developmenton_NET\HospitalManagementSystem.ADO\HospitalManagementSystem.Domains\bin\Debug\net7.0\HospitalManagementSystem.Domains.deps.json
+D:\lessons\Application_Developmenton_NET\HospitalManagementSystem.ADO\HospitalManagementSystem.Domains\bin\Debug\net7.0\HospitalManagementSystem.Domains.dll
+D:\lessons\Application_Developmenton_NET\HospitalManagementSystem.ADO\HospitalManagementSystem.Domains\bin\Debug\net7.0\HospitalManagementSystem.Domains.pdb
+D:\lessons\Application_Developmenton_NET\HospitalManagementSystem.ADO\HospitalManagementSystem.Domains\obj\Debug\net7.0\HospitalManagementSystem.Domains.GeneratedMSBuildEditorConfig.editorconfig
+D:\lessons\Application_Developmenton_NET\HospitalManagementSystem.ADO\HospitalManagementSystem.Domains\obj\Debug\net7.0\HospitalManagementSystem.Domains.AssemblyInfoInputs.cache
+D:\lessons\Application_Developmenton_NET\HospitalManagementSystem.ADO\HospitalManagementSystem.Domains\obj\Debug\net7.0\HospitalManagementSystem.Domains.AssemblyInfo.cs
+D:\lessons\Application_Developmenton_NET\HospitalManagementSystem.ADO\HospitalManagementSystem.Domains\obj\Debug\net7.0\HospitalManagementSystem.Domains.csproj.CoreCompileInputs.cache
+D:\lessons\Application_Developmenton_NET\HospitalManagementSystem.ADO\HospitalManagementSystem.Domains\obj\Debug\net7.0\HospitalManagementSystem.Domains.dll
+D:\lessons\Application_Developmenton_NET\HospitalManagementSystem.ADO\HospitalManagementSystem.Domains\obj\Debug\net7.0\refint\HospitalManagementSystem.Domains.dll
+D:\lessons\Application_Developmenton_NET\HospitalManagementSystem.ADO\HospitalManagementSystem.Domains\obj\Debug\net7.0\HospitalManagementSystem.Domains.pdb
+D:\lessons\Application_Developmenton_NET\HospitalManagementSystem.ADO\HospitalManagementSystem.Domains\obj\Debug\net7.0\ref\HospitalManagementSystem.Domains.dll
+D:\lessons\Application_Developmenton_NET\HospitalManagementSystem.ADO\HospitalManagementSystem.Domains\obj\Debug\net7.0\HospitalManagementSystem.Domains.csproj.AssemblyReference.cache

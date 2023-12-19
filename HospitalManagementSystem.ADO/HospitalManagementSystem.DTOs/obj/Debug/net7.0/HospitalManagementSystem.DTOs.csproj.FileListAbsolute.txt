@@ -1,0 +1,11 @@
+D:\lessons\Application_Developmenton_NET\HospitalManagementSystem.ADO\HospitalManagementSystem.DTOs\bin\Debug\net7.0\HospitalManagementSystem.DTOs.deps.json
+D:\lessons\Application_Developmenton_NET\HospitalManagementSystem.ADO\HospitalManagementSystem.DTOs\bin\Debug\net7.0\HospitalManagementSystem.DTOs.dll
+D:\lessons\Application_Developmenton_NET\HospitalManagementSystem.ADO\HospitalManagementSystem.DTOs\bin\Debug\net7.0\HospitalManagementSystem.DTOs.pdb
+D:\lessons\Application_Developmenton_NET\HospitalManagementSystem.ADO\HospitalManagementSystem.DTOs\obj\Debug\net7.0\HospitalManagementSystem.DTOs.GeneratedMSBuildEditorConfig.editorconfig
+D:\lessons\Application_Developmenton_NET\HospitalManagementSystem.ADO\HospitalManagementSystem.DTOs\obj\Debug\net7.0\HospitalManagementSystem.DTOs.AssemblyInfoInputs.cache
+D:\lessons\Application_Developmenton_NET\HospitalManagementSystem.ADO\HospitalManagementSystem.DTOs\obj\Debug\net7.0\HospitalManagementSystem.DTOs.AssemblyInfo.cs
+D:\lessons\Application_Developmenton_NET\HospitalManagementSystem.ADO\HospitalManagementSystem.DTOs\obj\Debug\net7.0\HospitalManagementSystem.DTOs.csproj.CoreCompileInputs.cache
+D:\lessons\Application_Developmenton_NET\HospitalManagementSystem.ADO\HospitalManagementSystem.DTOs\obj\Debug\net7.0\HospitalManagementSystem.DTOs.dll
+D:\lessons\Application_Developmenton_NET\HospitalManagementSystem.ADO\HospitalManagementSystem.DTOs\obj\Debug\net7.0\refint\HospitalManagementSystem.DTOs.dll
+D:\lessons\Application_Developmenton_NET\HospitalManagementSystem.ADO\HospitalManagementSystem.DTOs\obj\Debug\net7.0\HospitalManagementSystem.DTOs.pdb
+D:\lessons\Application_Developmenton_NET\HospitalManagementSystem.ADO\HospitalManagementSystem.DTOs\obj\Debug\net7.0\ref\HospitalManagementSystem.DTOs.dll
