@@ -1,8 +1,3 @@
-D:\lessons\Application_Developmenton_NET\HospitalManagementSystem.ADO\HospitalManagementSystem.Configurations\obj\Debug\net7.0\HospitalManagementSystem.Configurations.csproj.AssemblyReference.cache
-D:\lessons\Application_Developmenton_NET\HospitalManagementSystem.ADO\HospitalManagementSystem.Configurations\obj\Debug\net7.0\HospitalManagementSystem.Configurations.GeneratedMSBuildEditorConfig.editorconfig
-D:\lessons\Application_Developmenton_NET\HospitalManagementSystem.ADO\HospitalManagementSystem.Configurations\obj\Debug\net7.0\HospitalManagementSystem.Configurations.AssemblyInfoInputs.cache
-D:\lessons\Application_Developmenton_NET\HospitalManagementSystem.ADO\HospitalManagementSystem.Configurations\obj\Debug\net7.0\HospitalManagementSystem.Configurations.AssemblyInfo.cs
-D:\lessons\Application_Developmenton_NET\HospitalManagementSystem.ADO\HospitalManagementSystem.Configurations\obj\Debug\net7.0\HospitalManagementSystem.Configurations.csproj.CoreCompileInputs.cache
 D:\lessons\Application_Developmenton_NET\HospitalManagementSystem.ADO\HospitalManagementSystem.Configurations\bin\Debug\net7.0\HospitalManagementSystem.Configurations.exe
 D:\lessons\Application_Developmenton_NET\HospitalManagementSystem.ADO\HospitalManagementSystem.Configurations\bin\Debug\net7.0\HospitalManagementSystem.Configurations.dll.config
 D:\lessons\Application_Developmenton_NET\HospitalManagementSystem.ADO\HospitalManagementSystem.Configurations\bin\Debug\net7.0\HospitalManagementSystem.Configurations.deps.json
@@ -15,6 +10,7 @@ D:\lessons\Application_Developmenton_NET\HospitalManagementSystem.ADO\HospitalMa
 D:\lessons\Application_Developmenton_NET\HospitalManagementSystem.ADO\HospitalManagementSystem.Configurations\bin\Debug\net7.0\Dapper.dll
 D:\lessons\Application_Developmenton_NET\HospitalManagementSystem.ADO\HospitalManagementSystem.Configurations\bin\Debug\net7.0\Microsoft.Bcl.AsyncInterfaces.dll
 D:\lessons\Application_Developmenton_NET\HospitalManagementSystem.ADO\HospitalManagementSystem.Configurations\bin\Debug\net7.0\Microsoft.Data.SqlClient.dll
+D:\lessons\Application_Developmenton_NET\HospitalManagementSystem.ADO\HospitalManagementSystem.Configurations\bin\Debug\net7.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
 D:\lessons\Application_Developmenton_NET\HospitalManagementSystem.ADO\HospitalManagementSystem.Configurations\bin\Debug\net7.0\Microsoft.Identity.Client.dll
 D:\lessons\Application_Developmenton_NET\HospitalManagementSystem.ADO\HospitalManagementSystem.Configurations\bin\Debug\net7.0\Microsoft.Identity.Client.Extensions.Msal.dll
 D:\lessons\Application_Developmenton_NET\HospitalManagementSystem.ADO\HospitalManagementSystem.Configurations\bin\Debug\net7.0\Microsoft.IdentityModel.Abstractions.dll
@@ -43,6 +39,11 @@ D:\lessons\Application_Developmenton_NET\HospitalManagementSystem.ADO\HospitalMa
 D:\lessons\Application_Developmenton_NET\HospitalManagementSystem.ADO\HospitalManagementSystem.Configurations\bin\Debug\net7.0\HospitalManagementSystem.Seeding.dll
 D:\lessons\Application_Developmenton_NET\HospitalManagementSystem.ADO\HospitalManagementSystem.Configurations\bin\Debug\net7.0\HospitalManagementSystem.Domains.pdb
 D:\lessons\Application_Developmenton_NET\HospitalManagementSystem.ADO\HospitalManagementSystem.Configurations\bin\Debug\net7.0\HospitalManagementSystem.Seeding.pdb
+D:\lessons\Application_Developmenton_NET\HospitalManagementSystem.ADO\HospitalManagementSystem.Configurations\obj\Debug\net7.0\HospitalManagementSystem.Configurations.csproj.AssemblyReference.cache
+D:\lessons\Application_Developmenton_NET\HospitalManagementSystem.ADO\HospitalManagementSystem.Configurations\obj\Debug\net7.0\HospitalManagementSystem.Configurations.GeneratedMSBuildEditorConfig.editorconfig
+D:\lessons\Application_Developmenton_NET\HospitalManagementSystem.ADO\HospitalManagementSystem.Configurations\obj\Debug\net7.0\HospitalManagementSystem.Configurations.AssemblyInfoInputs.cache
+D:\lessons\Application_Developmenton_NET\HospitalManagementSystem.ADO\HospitalManagementSystem.Configurations\obj\Debug\net7.0\HospitalManagementSystem.Configurations.AssemblyInfo.cs
+D:\lessons\Application_Developmenton_NET\HospitalManagementSystem.ADO\HospitalManagementSystem.Configurations\obj\Debug\net7.0\HospitalManagementSystem.Configurations.csproj.CoreCompileInputs.cache
 D:\lessons\Application_Developmenton_NET\HospitalManagementSystem.ADO\HospitalManagementSystem.Configurations\obj\Debug\net7.0\HospitalManagementSystem.Configurations.csproj.CopyComplete
 D:\lessons\Application_Developmenton_NET\HospitalManagementSystem.ADO\HospitalManagementSystem.Configurations\obj\Debug\net7.0\HospitalManagementSystem.Configurations.dll
 D:\lessons\Application_Developmenton_NET\HospitalManagementSystem.ADO\HospitalManagementSystem.Configurations\obj\Debug\net7.0\refint\HospitalManagementSystem.Configurations.dll

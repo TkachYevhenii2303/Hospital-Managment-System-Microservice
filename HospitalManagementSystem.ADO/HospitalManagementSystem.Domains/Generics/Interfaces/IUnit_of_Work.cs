@@ -6,6 +6,6 @@ namespace HospitalManagementSystem.Domains.Generics.Interfaces
     {
         void Configurations();
 
-        IEmployeesRepository EmployeesRepository { get; }
+        IEmployeeRepository EmployeesRepository { get; }
     }
 }

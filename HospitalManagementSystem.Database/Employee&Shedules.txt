@@ -1,7 +1,7 @@
-Create database [Employee&Shedules] 
+Create database [Employee_Shedules] 
 Go
 
-Use [Employee&Shedules]
+Use [Employee_Shedules]
 Go
 
 Set ansi_nulls on
@@ -80,7 +80,7 @@ Go
 Set quoted_identifier on
 Go
 
-Create table [Roles]
+Create table [Position]
 (
 	[Id] UNIQUEIDENTIFIER not null default NEWID(), 
 	[Title] [nvarchar](100) not null,
@@ -102,11 +102,11 @@ Go
 Set quoted_identifier on
 Go
 
-Create table [Has_Role]
+Create table [HasRole]
 (
 	[Id] UNIQUEIDENTIFIER not null default NEWID(), 
 	[EmployeesId] UNIQUEIDENTIFIER not null,
-	[RolesId] UNIQUEIDENTIFIER not null,
+	[PositionId] UNIQUEIDENTIFIER not null,
 	
 	[CreatedDateTime] [datetime] null default GETDATE(),
 	[UpdatedDateTime] [datetime] null default null,
@@ -117,7 +117,7 @@ Create table [Has_Role]
 
 	Constraint [FK-Has-Role-to-Employees] Foreign key ([EmployeesId]) references [Employees]([Id]),
 	
-	Constraint [FK-Role-Has-to-Roles] Foreign key ([RolesId]) references [Roles]([Id]),
+	Constraint [FK-Role-Has-to-Roles] Foreign key ([PositionId]) references [Position]([Id]),
 )
 Go
 

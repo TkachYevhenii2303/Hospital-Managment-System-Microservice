@@ -1,0 +1,11 @@
+D:\lessons\Application_Developmenton_NET\HospitalManagementSystem.CA\HospitalManagementSystem.Shared\bin\Debug\net7.0\HospitalManagementSystem.Shared.deps.json
+D:\lessons\Application_Developmenton_NET\HospitalManagementSystem.CA\HospitalManagementSystem.Shared\bin\Debug\net7.0\HospitalManagementSystem.Shared.dll
+D:\lessons\Application_Developmenton_NET\HospitalManagementSystem.CA\HospitalManagementSystem.Shared\bin\Debug\net7.0\HospitalManagementSystem.Shared.pdb
+D:\lessons\Application_Developmenton_NET\HospitalManagementSystem.CA\HospitalManagementSystem.Shared\obj\Debug\net7.0\HospitalManagementSystem.Shared.GeneratedMSBuildEditorConfig.editorconfig
+D:\lessons\Application_Developmenton_NET\HospitalManagementSystem.CA\HospitalManagementSystem.Shared\obj\Debug\net7.0\HospitalManagementSystem.Shared.AssemblyInfoInputs.cache
+D:\lessons\Application_Developmenton_NET\HospitalManagementSystem.CA\HospitalManagementSystem.Shared\obj\Debug\net7.0\HospitalManagementSystem.Shared.AssemblyInfo.cs
+D:\lessons\Application_Developmenton_NET\HospitalManagementSystem.CA\HospitalManagementSystem.Shared\obj\Debug\net7.0\HospitalManagementSystem.Shared.csproj.CoreCompileInputs.cache
+D:\lessons\Application_Developmenton_NET\HospitalManagementSystem.CA\HospitalManagementSystem.Shared\obj\Debug\net7.0\HospitalManagementSystem.Shared.dll
+D:\lessons\Application_Developmenton_NET\HospitalManagementSystem.CA\HospitalManagementSystem.Shared\obj\Debug\net7.0\refint\HospitalManagementSystem.Shared.dll
+D:\lessons\Application_Developmenton_NET\HospitalManagementSystem.CA\HospitalManagementSystem.Shared\obj\Debug\net7.0\HospitalManagementSystem.Shared.pdb
+D:\lessons\Application_Developmenton_NET\HospitalManagementSystem.CA\HospitalManagementSystem.Shared\obj\Debug\net7.0\ref\HospitalManagementSystem.Shared.dll

@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "kV+5wZwnM8plD+ibt9AeaqB8w1OURwVcbicEHafZZ+q2+9LIoWEWgTP69Q+GNE7bbyz0ua6vuQEBYLwq8Hhlhw==",
+  "success": true,
+  "projectFilePath": "D:\\lessons\\Application_Developmenton_NET\\HospitalManagementSystem.CA\\HospitalManagementSystem.Infrastructure\\HospitalManagementSystem.Infrastructure.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\admin\\.nuget\\packages\\mediatr\\12.2.0\\mediatr.12.2.0.nupkg.sha512",
+    "C:\\Users\\admin\\.nuget\\packages\\mediatr.contracts\\2.0.1\\mediatr.contracts.2.0.1.nupkg.sha512",
+    "C:\\Users\\admin\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\8.0.0\\microsoft.extensions.dependencyinjection.abstractions.8.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}

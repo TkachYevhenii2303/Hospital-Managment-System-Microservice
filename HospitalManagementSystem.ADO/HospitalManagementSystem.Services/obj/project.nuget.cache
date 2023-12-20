@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "VKnm8biobI4MnN0XHmrqzfZZVtwJELhqNJjrvmdiiLy6WZx8fMBobFr3RE+4uYdH5SEFMT5B/W8JSw1N2Wr83A==",
+  "dgSpecHash": "05IX3ymyUZMzsIF0DJd2f+EtOyYcmJLh57uYU7MD7RDh35imjSQN9uFMfRLJeexFASKOJz6XQoxRv+ho7PJjOg==",
   "success": true,
   "projectFilePath": "D:\\lessons\\Application_Developmenton_NET\\HospitalManagementSystem.ADO\\HospitalManagementSystem.Services\\HospitalManagementSystem.Services.csproj",
   "expectedPackageFiles": [
@@ -12,6 +12,7 @@
     "C:\\Users\\admin\\.nuget\\packages\\microsoft.csharp\\4.7.0\\microsoft.csharp.4.7.0.nupkg.sha512",
     "C:\\Users\\admin\\.nuget\\packages\\microsoft.data.sqlclient\\5.1.2\\microsoft.data.sqlclient.5.1.2.nupkg.sha512",
     "C:\\Users\\admin\\.nuget\\packages\\microsoft.data.sqlclient.sni.runtime\\5.1.1\\microsoft.data.sqlclient.sni.runtime.5.1.1.nupkg.sha512",
+    "C:\\Users\\admin\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\8.0.0\\microsoft.extensions.dependencyinjection.abstractions.8.0.0.nupkg.sha512",
     "C:\\Users\\admin\\.nuget\\packages\\microsoft.identity.client\\4.47.2\\microsoft.identity.client.4.47.2.nupkg.sha512",
     "C:\\Users\\admin\\.nuget\\packages\\microsoft.identity.client.extensions.msal\\2.19.3\\microsoft.identity.client.extensions.msal.2.19.3.nupkg.sha512",
     "C:\\Users\\admin\\.nuget\\packages\\microsoft.identitymodel.abstractions\\6.24.0\\microsoft.identitymodel.abstractions.6.24.0.nupkg.sha512",

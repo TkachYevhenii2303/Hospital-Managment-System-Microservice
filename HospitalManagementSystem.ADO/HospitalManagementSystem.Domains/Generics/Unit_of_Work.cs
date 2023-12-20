@@ -13,7 +13,7 @@ namespace HospitalManagementSystem.Domains.Generics
 
         private readonly SqlConnection _connection;
 
-        public IEmployeesRepository EmployeesRepository { get; set; }
+        public IEmployeeRepository EmployeesRepository { get; set; }
 
         public Unit_of_Work(IDbTransaction transaction, SqlConnection connection)
         {
@@ -21,7 +21,7 @@ namespace HospitalManagementSystem.Domains.Generics
 
             _connection = connection;
 
-            EmployeesRepository = new EmployeesRepository(_connection, _transaction);
+            EmployeesRepository = new EmployeeRepository(_connection, _transaction);
         }
 
         public void Dispose() => _transaction.Dispose();

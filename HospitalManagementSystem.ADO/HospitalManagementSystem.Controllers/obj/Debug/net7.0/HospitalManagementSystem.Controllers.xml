@@ -4,16 +4,68 @@
         <name>HospitalManagementSystem.Controllers</name>
     </assembly>
     <members>
-        <member name="M:HospitalManagementSystem.Controllers.Controllers.EmployeesController.GetEmployeesAsync">
+        <member name="M:HospitalManagementSystem.Controllers.Controllers.EmployeeController.GetEmployeesAsync">
             <summary>
             Retrieves a list of employees from the database.
             </summary>
-            <returns>An ActionResult containing a Response object with a list of GETEmployee objects.</returns>
+            <returns>An ActionResult containing a Response object with a list of EmployeeResponse objects.</returns>
             <remarks>
             This method fetches all employees from the database and returns them in a list.
             Successful responses will have a status code of 200 (OK).
             </remarks>
-            <response code="200">Returns a list of GETEmployee objects.</response>
+            <response code="200">Returns a list of EmployeeResponse objects.</response>
+        </member>
+        <member name="M:HospitalManagementSystem.Controllers.Controllers.EmployeeController.GetEmployeeByIdAsync(System.Guid)">
+            <summary>
+            Retrieves an employee by their unique identifier asynchronously.
+            </summary>
+            <param name="Id">The unique identifier of the employee.</param>
+            <returns>
+            A <see cref="!:Task&lt;ActionResult&lt;Response&lt;EmployeeResponse&gt;&gt;&gt;"/> representing the asynchronous operation.
+            The result contains information about the employee.
+            </returns>
+            <remarks>
+            This endpoint is accessible via HTTP GET request at the route "Return-Employee-ID".
+            </remarks>
+        </member>
+        <member name="M:HospitalManagementSystem.Controllers.Controllers.EmployeeController.InsertEmployeeAsync(HospitalManagementSystem.DTOs.DTOs.Requests.Employee.EmployeeRequest)">
+            <summary>
+            Inserts a new employee asynchronously.
+            </summary>
+            <param name="employee">The employee details to be inserted.</param>
+            <returns>
+            A <see cref="!:Task&lt;ActionResult&lt;Response&lt;EmployeeResponse&gt;&gt;&gt;"/> representing the asynchronous operation.
+            The result contains information about the inserted employee.
+            </returns>
+            <remarks>
+            This endpoint is accessible via HTTP POST request at the route "Insert-Employee".
+            </remarks>
+        </member>
+        <member name="M:HospitalManagementSystem.Controllers.Controllers.EmployeeController.DeleteEmployeeAsync(System.Guid)">
+            <summary>
+            Deletes an employee by their unique identifier asynchronously.
+            </summary>
+            <param name="Id">The unique identifier of the employee to be deleted.</param>
+            <returns>
+            A <see cref="!:Task&lt;ActionResult&lt;IEnumerable&lt;EmployeeResponse&gt;&gt;&gt;"/> representing the asynchronous operation.
+            The result contains information about the deleted employee.
+            </returns>
+            <remarks>
+            This endpoint is accessible via HTTP DELETE request at the route "Delete-Employee-ID".
+            </remarks>
+        </member>
+        <member name="M:HospitalManagementSystem.Controllers.Controllers.EmployeeController.UpdateEmployeeAsync(HospitalManagementSystem.DTOs.DTOs.Requests.Employee.EmployeeUpdateRequest)">
+            <summary>
+            Updates an existing employee asynchronously.
+            </summary>
+            <param name="employee">The updated employee details.</param>
+            <returns>
+            A <see cref="!:Task&lt;ActionResult&lt;IEnumerable&lt;EmployeeResponse&gt;&gt;&gt;"/> representing the asynchronous operation.
+            The result contains information about the updated employee.
+            </returns>
+            <remarks>
+            This endpoint is accessible via HTTP PUT request at the route "Update-Employee".
+            </remarks>
         </member>
     </members>
 </doc>

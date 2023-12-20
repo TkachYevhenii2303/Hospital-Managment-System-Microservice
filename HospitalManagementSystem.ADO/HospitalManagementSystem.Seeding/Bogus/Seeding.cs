@@ -1,5 +1,4 @@
-﻿
-using Bogus;
+﻿using Bogus;
 using HospitalManagementSystem.Domains.Entities.Structures;
 using HospitalManagementSystem.Entities;
 
@@ -7,11 +6,11 @@ namespace HospitalManagementSystem.SeedingOperations.Bogus
 {
     public class Seeding
     {
-        private static List<Employees> Employees { get; set; } = new();
+        private static List<Employee> Employees { get; set; } = new();
 
         private static List<Position> Positions { get; set; } = new();
 
-        private static List<HasRole> HasRoles { get; set; } = new();
+        private static List<HasPosition> HasRoles { get; set; } = new();
 
         private static List<Hospital> Hospitals { get; set; } = new();
 
@@ -21,9 +20,9 @@ namespace HospitalManagementSystem.SeedingOperations.Bogus
 
         private static List<Shedules> Shedules { get; set; } = new();
 
-        public static List<Employees> SeedEmployees()
+        public static List<Employee> SeedEmployees()
         {
-            Employees = new Faker<Employees>(locale: "en")
+            Employees = new Faker<Employee>(locale: "en")
                 .RuleFor(x => x.FirstName, f => f.Person.FirstName)
                 .RuleFor(x => x.LastName, f => f.Person.LastName)
                 .RuleFor(x => x.Email, (f, o) => f.Internet.Email(o.FirstName, o.LastName))
@@ -46,9 +45,9 @@ namespace HospitalManagementSystem.SeedingOperations.Bogus
             return Positions;
         }
 
-        public static List<HasRole> SeedHasRoles()
+        public static List<HasPosition> SeedHasRoles()
         {
-            HasRoles = new Faker<HasRole>()
+            HasRoles = new Faker<HasPosition>()
                 .RuleFor(x => x.EmployeesId, f => f.PickRandom(Employees).Id)
                 .RuleFor(x => x.PositionId, f => f.PickRandom(Positions).Id)
                 .Generate(30);

@@ -3,7 +3,7 @@ using HospitalManagementSystem.Entities;
 
 namespace HospitalManagementSystem.Domains.Repositories.Interfaces
 {
-    public interface IHasRoleRepository : IGenericRepository<HasRole>
+    public interface IHasPositionRepository : IGenericRepository<HasPosition>
     {
     }
 }

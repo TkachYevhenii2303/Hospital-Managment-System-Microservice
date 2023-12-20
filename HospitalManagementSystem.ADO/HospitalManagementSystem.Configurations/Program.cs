@@ -25,7 +25,7 @@ namespace HospitalManagementSystem.Configurations
 
         private static async Task SeedingCollections(SqlConnection connections, IDbTransaction transaction)
         {
-            var employee = new Configurations<EmployeesRepository, Employees>(Seeding.SeedEmployees, new EmployeesRepository(connections, transaction), transaction);
+            var employee = new Configurations<EmployeeRepository, Employee>(Seeding.SeedEmployees, new EmployeeRepository(connections, transaction), transaction);
 
             await employee.SeedRepository();
 
@@ -33,7 +33,7 @@ namespace HospitalManagementSystem.Configurations
 
             await positions.SeedRepository();
 
-            var hasRoles = new Configurations<HasRoleRepository, HasRole>(Seeding.SeedHasRoles, new HasRoleRepository(connections, transaction), transaction);  
+            var hasRoles = new Configurations<HasPositionRepository, HasPosition>(Seeding.SeedHasRoles, new HasPositionRepository(connections, transaction), transaction);  
 
             await hasRoles.SeedRepository();
 

@@ -12,7 +12,6 @@ namespace HospitalManagementSystem.Controllers.Middleware.Handling
         public ExceptionHandling(RequestDelegate next, ILogger<ExceptionHandling> logger)
         {
             _next = next;
-
             _logger = logger;
         }
 

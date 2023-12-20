@@ -22,53 +22,45 @@ namespace HospitalManagementSystem.Services.Services
             _mapper = mapper;
         }
 
-        public async Task<Response<IEnumerable<GETEmployee>>> GetEmployeesByRoleAsync(string positionType)
-        {
-            var result = await _unit_of_Work.EmployeesRepository.GetEmployeesByRoleAsync(positionType);
-
-            return _mapper.Map<Response<IEnumerable<Employees>>, Response<IEnumerable<GETEmployee>>>(result);
-        }
-
-
-        public async Task<Response<IEnumerable<GETEmployee>>> GetEmployeesAsync()
+        public async Task<Response<IEnumerable<EmployeeResponse>>> GetEmployeesAsync()
         {
             var result = await _unit_of_Work.EmployeesRepository.GetEntitiesAsync();
 
-            return _mapper.Map<Response<IEnumerable<Employees>>, Response<IEnumerable<GETEmployee>>>(result);
+            return _mapper.Map<Response<IEnumerable<Employee>>, Response<IEnumerable<EmployeeResponse>>>(result);
         }
 
-        public async Task<Response<GETEmployee>> GetEmployeeByIdAsync(Guid Id)
+        public async Task<Response<EmployeeResponse>> GetEmployeeByIdAsync(Guid Id)
         {
             var result = await _unit_of_Work.EmployeesRepository.GetEntityByIdAsync(Id);
 
-            return _mapper.Map<Response<Employees>, Response<GETEmployee>>(result);
+            return _mapper.Map<Response<Employee>, Response<EmployeeResponse>>(result);
         }
 
-        public async Task<Response<IEnumerable<GETEmployee>>> InsertEmployeeAsync(INSERTEmployee employee)
+        public async Task<Response<IEnumerable<EmployeeResponse>>> InsertEmployeeAsync(EmployeeRequest employee)
         {
-            var result = await _unit_of_Work.EmployeesRepository.InsertEntityAsync(_mapper.Map<Employees>(employee));
+            var result = await _unit_of_Work.EmployeesRepository.InsertEntityAsync(_mapper.Map<Employee>(employee));
 
             _unit_of_Work.Configurations();
 
-            return _mapper.Map<Response<IEnumerable<Employees>>, Response<IEnumerable<GETEmployee>>>(result);
+            return _mapper.Map<Response<IEnumerable<Employee>>, Response<IEnumerable<EmployeeResponse>>>(result);
         }
 
-        public async Task<Response<IEnumerable<GETEmployee>>> UpdateEmployeeAsync(INSERTEmployee employee)
+        public async Task<Response<IEnumerable<EmployeeResponse>>> UpdateEmployeeAsync(EmployeeUpdateRequest employee)
         {
-            var result = await _unit_of_Work.EmployeesRepository.UpdateEntityAsync(_mapper.Map<Employees>(employee));
+            var result = await _unit_of_Work.EmployeesRepository.UpdateEntityAsync(_mapper.Map<Employee>(employee));
 
             _unit_of_Work.Configurations();
 
-            return _mapper.Map<Response<IEnumerable<Employees>>, Response<IEnumerable<GETEmployee>>>(result);
+            return _mapper.Map<Response<IEnumerable<Employee>>, Response<IEnumerable<EmployeeResponse>>>(result);
         }
 
-        public async Task<Response<IEnumerable<GETEmployee>>> DeleteEmployeeAsync(Guid Id)
+        public async Task<Response<IEnumerable<EmployeeResponse>>> DeleteEmployeeAsync(Guid Id)
         {
             var result = await _unit_of_Work.EmployeesRepository.DeleteEntityAsync(Id);
 
             _unit_of_Work.Configurations();
 
-            return _mapper.Map<Response<IEnumerable<Employees>>, Response<IEnumerable<GETEmployee>>>(result);
+            return _mapper.Map<Response<IEnumerable<Employee>>, Response<IEnumerable<EmployeeResponse>>>(result);
         }
     }
 }
