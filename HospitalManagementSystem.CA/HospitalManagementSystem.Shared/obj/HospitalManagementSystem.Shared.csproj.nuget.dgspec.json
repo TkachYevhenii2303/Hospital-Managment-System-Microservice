@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\lessons\\Application_Developmenton_NET\\HospitalManagementSystem.CA\\HospitalManagementSystem.Shared\\HospitalManagementSystem.Shared.csproj": {}
+    "D:\\Courses\\Developments\\HospitalManagementSystem.CA\\HospitalManagementSystem.Shared\\HospitalManagementSystem.Shared.csproj": {}
   },
   "projects": {
-    "D:\\lessons\\Application_Developmenton_NET\\HospitalManagementSystem.CA\\HospitalManagementSystem.Shared\\HospitalManagementSystem.Shared.csproj": {
+    "D:\\Courses\\Developments\\HospitalManagementSystem.CA\\HospitalManagementSystem.Shared\\HospitalManagementSystem.Shared.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\lessons\\Application_Developmenton_NET\\HospitalManagementSystem.CA\\HospitalManagementSystem.Shared\\HospitalManagementSystem.Shared.csproj",
+        "projectUniqueName": "D:\\Courses\\Developments\\HospitalManagementSystem.CA\\HospitalManagementSystem.Shared\\HospitalManagementSystem.Shared.csproj",
         "projectName": "HospitalManagementSystem.Shared",
-        "projectPath": "D:\\lessons\\Application_Developmenton_NET\\HospitalManagementSystem.CA\\HospitalManagementSystem.Shared\\HospitalManagementSystem.Shared.csproj",
+        "projectPath": "D:\\Courses\\Developments\\HospitalManagementSystem.CA\\HospitalManagementSystem.Shared\\HospitalManagementSystem.Shared.csproj",
         "packagesPath": "C:\\Users\\admin\\.nuget\\packages\\",
-        "outputPath": "D:\\lessons\\Application_Developmenton_NET\\HospitalManagementSystem.CA\\HospitalManagementSystem.Shared\\obj\\",
+        "outputPath": "D:\\Courses\\Developments\\HospitalManagementSystem.CA\\HospitalManagementSystem.Shared\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\admin\\AppData\\Roaming\\NuGet\\NuGet.Config",

@@ -3367,11 +3367,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\lessons\\Application_Developmenton_NET\\HospitalManagementSystem.CA\\HospitalManagementSystem.Persistence\\HospitalManagementSystem.Persistence.csproj",
+      "projectUniqueName": "D:\\Courses\\Developments\\HospitalManagementSystem.CA\\HospitalManagementSystem.Persistence\\HospitalManagementSystem.Persistence.csproj",
       "projectName": "HospitalManagementSystem.Persistence",
-      "projectPath": "D:\\lessons\\Application_Developmenton_NET\\HospitalManagementSystem.CA\\HospitalManagementSystem.Persistence\\HospitalManagementSystem.Persistence.csproj",
+      "projectPath": "D:\\Courses\\Developments\\HospitalManagementSystem.CA\\HospitalManagementSystem.Persistence\\HospitalManagementSystem.Persistence.csproj",
       "packagesPath": "C:\\Users\\admin\\.nuget\\packages\\",
-      "outputPath": "D:\\lessons\\Application_Developmenton_NET\\HospitalManagementSystem.CA\\HospitalManagementSystem.Persistence\\obj\\",
+      "outputPath": "D:\\Courses\\Developments\\HospitalManagementSystem.CA\\HospitalManagementSystem.Persistence\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\admin\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -3388,11 +3388,11 @@
         "net7.0": {
           "targetAlias": "net7.0",
           "projectReferences": {
-            "D:\\lessons\\Application_Developmenton_NET\\HospitalManagementSystem.CA\\HospitalManagementSystem.Application\\HospitalManagementSystem.Application.csproj": {
-              "projectPath": "D:\\lessons\\Application_Developmenton_NET\\HospitalManagementSystem.CA\\HospitalManagementSystem.Application\\HospitalManagementSystem.Application.csproj"
+            "D:\\Courses\\Developments\\HospitalManagementSystem.CA\\HospitalManagementSystem.Application\\HospitalManagementSystem.Application.csproj": {
+              "projectPath": "D:\\Courses\\Developments\\HospitalManagementSystem.CA\\HospitalManagementSystem.Application\\HospitalManagementSystem.Application.csproj"
             },
-            "D:\\lessons\\Application_Developmenton_NET\\HospitalManagementSystem.CA\\HospitalManagementSystem.Domains\\HospitalManagementSystem.Domains.csproj": {
-              "projectPath": "D:\\lessons\\Application_Developmenton_NET\\HospitalManagementSystem.CA\\HospitalManagementSystem.Domains\\HospitalManagementSystem.Domains.csproj"
+            "D:\\Courses\\Developments\\HospitalManagementSystem.CA\\HospitalManagementSystem.Domains\\HospitalManagementSystem.Domains.csproj": {
+              "projectPath": "D:\\Courses\\Developments\\HospitalManagementSystem.CA\\HospitalManagementSystem.Domains\\HospitalManagementSystem.Domains.csproj"
             }
           }
         }

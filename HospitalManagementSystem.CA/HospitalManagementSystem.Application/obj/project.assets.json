@@ -1155,11 +1155,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\lessons\\Application_Developmenton_NET\\HospitalManagementSystem.CA\\HospitalManagementSystem.Application\\HospitalManagementSystem.Application.csproj",
+      "projectUniqueName": "D:\\Courses\\Developments\\HospitalManagementSystem.CA\\HospitalManagementSystem.Application\\HospitalManagementSystem.Application.csproj",
       "projectName": "HospitalManagementSystem.Application",
-      "projectPath": "D:\\lessons\\Application_Developmenton_NET\\HospitalManagementSystem.CA\\HospitalManagementSystem.Application\\HospitalManagementSystem.Application.csproj",
+      "projectPath": "D:\\Courses\\Developments\\HospitalManagementSystem.CA\\HospitalManagementSystem.Application\\HospitalManagementSystem.Application.csproj",
       "packagesPath": "C:\\Users\\admin\\.nuget\\packages\\",
-      "outputPath": "D:\\lessons\\Application_Developmenton_NET\\HospitalManagementSystem.CA\\HospitalManagementSystem.Application\\obj\\",
+      "outputPath": "D:\\Courses\\Developments\\HospitalManagementSystem.CA\\HospitalManagementSystem.Application\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\admin\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -1176,11 +1176,11 @@
         "net7.0": {
           "targetAlias": "net7.0",
           "projectReferences": {
-            "D:\\lessons\\Application_Developmenton_NET\\HospitalManagementSystem.CA\\HospitalManagementSystem.Domains\\HospitalManagementSystem.Domains.csproj": {
-              "projectPath": "D:\\lessons\\Application_Developmenton_NET\\HospitalManagementSystem.CA\\HospitalManagementSystem.Domains\\HospitalManagementSystem.Domains.csproj"
+            "D:\\Courses\\Developments\\HospitalManagementSystem.CA\\HospitalManagementSystem.Domains\\HospitalManagementSystem.Domains.csproj": {
+              "projectPath": "D:\\Courses\\Developments\\HospitalManagementSystem.CA\\HospitalManagementSystem.Domains\\HospitalManagementSystem.Domains.csproj"
             },
-            "D:\\lessons\\Application_Developmenton_NET\\HospitalManagementSystem.CA\\HospitalManagementSystem.Shared\\HospitalManagementSystem.Shared.csproj": {
-              "projectPath": "D:\\lessons\\Application_Developmenton_NET\\HospitalManagementSystem.CA\\HospitalManagementSystem.Shared\\HospitalManagementSystem.Shared.csproj"
+            "D:\\Courses\\Developments\\HospitalManagementSystem.CA\\HospitalManagementSystem.Shared\\HospitalManagementSystem.Shared.csproj": {
+              "projectPath": "D:\\Courses\\Developments\\HospitalManagementSystem.CA\\HospitalManagementSystem.Shared\\HospitalManagementSystem.Shared.csproj"
             }
           }
         }

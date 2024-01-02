@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "kV+5wZwnM8plD+ibt9AeaqB8w1OURwVcbicEHafZZ+q2+9LIoWEWgTP69Q+GNE7bbyz0ua6vuQEBYLwq8Hhlhw==",
+  "dgSpecHash": "NplpVbL1TD3NwepxLv6nFw/rUq6whAhy9lVn6BoOd2lhY95qU4PsXJPxZ0QUPRbUBEtUK6f8GFROGNGJCuPhmQ==",
   "success": true,
-  "projectFilePath": "D:\\lessons\\Application_Developmenton_NET\\HospitalManagementSystem.CA\\HospitalManagementSystem.Infrastructure\\HospitalManagementSystem.Infrastructure.csproj",
+  "projectFilePath": "D:\\Courses\\Developments\\HospitalManagementSystem.CA\\HospitalManagementSystem.Infrastructure\\HospitalManagementSystem.Infrastructure.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\admin\\.nuget\\packages\\mediatr\\12.2.0\\mediatr.12.2.0.nupkg.sha512",
     "C:\\Users\\admin\\.nuget\\packages\\mediatr.contracts\\2.0.1\\mediatr.contracts.2.0.1.nupkg.sha512",

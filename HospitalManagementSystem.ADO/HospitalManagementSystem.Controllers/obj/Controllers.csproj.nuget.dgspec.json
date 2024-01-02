@@ -1,0 +1,298 @@
+{
+  "format": 1,
+  "restore": {
+    "D:\\lessons\\Application_Developmenton_NET\\HospitalManagementSystem.ADO\\HospitalManagementSystem.Controllers\\Controllers.csproj": {}
+  },
+  "projects": {
+    "D:\\lessons\\Application_Developmenton_NET\\HospitalManagementSystem.ADO\\HospitalManagementSystem.Controllers\\Controllers.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\lessons\\Application_Developmenton_NET\\HospitalManagementSystem.ADO\\HospitalManagementSystem.Controllers\\Controllers.csproj",
+        "projectName": "Controllers",
+        "projectPath": "D:\\lessons\\Application_Developmenton_NET\\HospitalManagementSystem.ADO\\HospitalManagementSystem.Controllers\\Controllers.csproj",
+        "packagesPath": "C:\\Users\\admin\\.nuget\\packages\\",
+        "outputPath": "D:\\lessons\\Application_Developmenton_NET\\HospitalManagementSystem.ADO\\HospitalManagementSystem.Controllers\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\admin\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net7.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net7.0": {
+            "targetAlias": "net7.0",
+            "projectReferences": {
+              "D:\\lessons\\Application_Developmenton_NET\\HospitalManagementSystem.ADO\\HospitalManagementSystem.Domains\\Domains.csproj": {
+                "projectPath": "D:\\lessons\\Application_Developmenton_NET\\HospitalManagementSystem.ADO\\HospitalManagementSystem.Domains\\Domains.csproj"
+              },
+              "D:\\lessons\\Application_Developmenton_NET\\HospitalManagementSystem.ADO\\HospitalManagementSystem.DTOs\\DTOs.csproj": {
+                "projectPath": "D:\\lessons\\Application_Developmenton_NET\\HospitalManagementSystem.ADO\\HospitalManagementSystem.DTOs\\DTOs.csproj"
+              },
+              "D:\\lessons\\Application_Developmenton_NET\\HospitalManagementSystem.ADO\\HospitalManagementSystem.Services\\Services.csproj": {
+                "projectPath": "D:\\lessons\\Application_Developmenton_NET\\HospitalManagementSystem.ADO\\HospitalManagementSystem.Services\\Services.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net7.0": {
+          "targetAlias": "net7.0",
+          "dependencies": {
+            "Microsoft.AspNetCore.OpenApi": {
+              "target": "Package",
+              "version": "[7.0.14, )"
+            },
+            "Microsoft.Data.SqlClient": {
+              "target": "Package",
+              "version": "[5.1.2, )"
+            },
+            "Serilog": {
+              "target": "Package",
+              "version": "[3.1.1, )"
+            },
+            "Serilog.Extensions.Hosting": {
+              "target": "Package",
+              "version": "[8.0.0, )"
+            },
+            "Serilog.Settings.Configuration": {
+              "target": "Package",
+              "version": "[8.0.0, )"
+            },
+            "Serilog.Sinks.Console": {
+              "target": "Package",
+              "version": "[5.0.1, )"
+            },
+            "Swashbuckle.AspNetCore": {
+              "target": "Package",
+              "version": "[6.5.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.AspNetCore.App": {
+              "privateAssets": "none"
+            },
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.401\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "D:\\lessons\\Application_Developmenton_NET\\HospitalManagementSystem.ADO\\HospitalManagementSystem.Domains\\Domains.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\lessons\\Application_Developmenton_NET\\HospitalManagementSystem.ADO\\HospitalManagementSystem.Domains\\Domains.csproj",
+        "projectName": "Domains",
+        "projectPath": "D:\\lessons\\Application_Developmenton_NET\\HospitalManagementSystem.ADO\\HospitalManagementSystem.Domains\\Domains.csproj",
+        "packagesPath": "C:\\Users\\admin\\.nuget\\packages\\",
+        "outputPath": "D:\\lessons\\Application_Developmenton_NET\\HospitalManagementSystem.ADO\\HospitalManagementSystem.Domains\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\admin\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net7.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net7.0": {
+            "targetAlias": "net7.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net7.0": {
+          "targetAlias": "net7.0",
+          "dependencies": {
+            "Dapper": {
+              "target": "Package",
+              "version": "[2.1.24, )"
+            },
+            "Microsoft.Data.SqlClient": {
+              "target": "Package",
+              "version": "[5.1.2, )"
+            },
+            "Microsoft.Extensions.DependencyInjection.Abstractions": {
+              "target": "Package",
+              "version": "[8.0.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.401\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "D:\\lessons\\Application_Developmenton_NET\\HospitalManagementSystem.ADO\\HospitalManagementSystem.DTOs\\DTOs.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\lessons\\Application_Developmenton_NET\\HospitalManagementSystem.ADO\\HospitalManagementSystem.DTOs\\DTOs.csproj",
+        "projectName": "DTOs",
+        "projectPath": "D:\\lessons\\Application_Developmenton_NET\\HospitalManagementSystem.ADO\\HospitalManagementSystem.DTOs\\DTOs.csproj",
+        "packagesPath": "C:\\Users\\admin\\.nuget\\packages\\",
+        "outputPath": "D:\\lessons\\Application_Developmenton_NET\\HospitalManagementSystem.ADO\\HospitalManagementSystem.DTOs\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\admin\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net7.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net7.0": {
+            "targetAlias": "net7.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net7.0": {
+          "targetAlias": "net7.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.401\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "D:\\lessons\\Application_Developmenton_NET\\HospitalManagementSystem.ADO\\HospitalManagementSystem.Services\\Services.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\lessons\\Application_Developmenton_NET\\HospitalManagementSystem.ADO\\HospitalManagementSystem.Services\\Services.csproj",
+        "projectName": "Services",
+        "projectPath": "D:\\lessons\\Application_Developmenton_NET\\HospitalManagementSystem.ADO\\HospitalManagementSystem.Services\\Services.csproj",
+        "packagesPath": "C:\\Users\\admin\\.nuget\\packages\\",
+        "outputPath": "D:\\lessons\\Application_Developmenton_NET\\HospitalManagementSystem.ADO\\HospitalManagementSystem.Services\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\admin\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net7.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net7.0": {
+            "targetAlias": "net7.0",
+            "projectReferences": {
+              "D:\\lessons\\Application_Developmenton_NET\\HospitalManagementSystem.ADO\\HospitalManagementSystem.Domains\\Domains.csproj": {
+                "projectPath": "D:\\lessons\\Application_Developmenton_NET\\HospitalManagementSystem.ADO\\HospitalManagementSystem.Domains\\Domains.csproj"
+              },
+              "D:\\lessons\\Application_Developmenton_NET\\HospitalManagementSystem.ADO\\HospitalManagementSystem.DTOs\\DTOs.csproj": {
+                "projectPath": "D:\\lessons\\Application_Developmenton_NET\\HospitalManagementSystem.ADO\\HospitalManagementSystem.DTOs\\DTOs.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net7.0": {
+          "targetAlias": "net7.0",
+          "dependencies": {
+            "AutoMapper": {
+              "target": "Package",
+              "version": "[12.0.1, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.401\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

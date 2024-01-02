@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "Q7yayZKd+fxCt2x9Xl1QsmcPgCsFvdb70Wk01XxNxriaJrE/l00jLOFIybC8/twTR7Tq+TJPQp/jPgrT4KVM4g==",
+  "dgSpecHash": "BXuI5AeyeS1AwZGgM4nXrzKnXBfjYDRqtoUVNRHsu0JC5d16dsCRVIWLj95c9GMZUoBhFfFO+H2fRuJPPiHZrA==",
   "success": true,
-  "projectFilePath": "D:\\lessons\\Application_Developmenton_NET\\HospitalManagementSystem.CA\\HospitalManagementSystem.Controllers\\HospitalManagementSystem.Controllers.csproj",
+  "projectFilePath": "D:\\Courses\\Developments\\HospitalManagementSystem.CA\\HospitalManagementSystem.Controllers\\HospitalManagementSystem.Controllers.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\admin\\.nuget\\packages\\automapper\\12.0.1\\automapper.12.0.1.nupkg.sha512",
     "C:\\Users\\admin\\.nuget\\packages\\automapper.extensions.microsoft.dependencyinjection\\12.0.1\\automapper.extensions.microsoft.dependencyinjection.12.0.1.nupkg.sha512",

@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "jUzuM83WKtNPNmAZUzqeZgCa69lAaHXsI5mPpsAy2OPQpZC1uPgQ1KyMHKHdQErJfruLQhHN2IlY2BiQiTjfKQ==",
+  "dgSpecHash": "frnzBizv4v8MeiGtrfXuluNia9YJUDDKHP8AC9oBhKLNAbH+A/I3uE5RKNokubGwW5A9nYwExySPDp9zKE/wmw==",
   "success": true,
-  "projectFilePath": "D:\\lessons\\Application_Developmenton_NET\\HospitalManagementSystem.CA\\HospitalManagementSystem.Persistence\\HospitalManagementSystem.Persistence.csproj",
+  "projectFilePath": "D:\\Courses\\Developments\\HospitalManagementSystem.CA\\HospitalManagementSystem.Persistence\\HospitalManagementSystem.Persistence.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\admin\\.nuget\\packages\\automapper\\12.0.1\\automapper.12.0.1.nupkg.sha512",
     "C:\\Users\\admin\\.nuget\\packages\\automapper.extensions.microsoft.dependencyinjection\\12.0.1\\automapper.extensions.microsoft.dependencyinjection.12.0.1.nupkg.sha512",
